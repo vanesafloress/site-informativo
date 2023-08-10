@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+}
+main {
+    margin: 0px 300px 0px;
+}
+p {
+    font-size: 18px;
+    font-family: arial;
+    line-height: 25px;
+}
+h1 {
+    font-family: tw cen MT;
+    font-size: 40px;
+    color: #cf7956;
+}
+h2 {
+    font-family: tw cen MT;
+    font-size: 30px;
+    color: #d16644;
+}
+#container {
+    justify-content: space-between;
+    background-color: #ddead1;
+    text-align: center;
+    margin: 0px;
+    padding: 0px 10px;
+    border: 1px solid #ddead1;
+    padding: 0px 10px;
+}
+.menu ul {
+    max-width: 1400px;
+    padding: 10px;
+    list-style-type: none;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a{
+    padding: 10px 20px;
+    font-size: 19px;
+    color: black;
+    border-radius: 20px;
+    transition: 0.6s;
+    text-decoration: none;
+    font-family: Tw Cen MT;
+}
+.menu ul li a:hover {
+    background-color: #eedac2;
+}
+.navegacao {
+    padding: 10px 10px;
+    background-color: #fbfcf8;
+    box-shadow: 5px 5px 10px #bdbdbd;
+    -webkit-box-shadow: 5px 5px 10px #bdbdbd;
+    -moz-box-shadow: 5px 5px 10px #bdbdbd;
+    margin-right: 900px;
+}
+.navegacao ul li{
+    font-size: 20px;
+    font-family: tw cen MT;
+    color:#cf7956;
+}
+ul li{
+    font-size: 18px;
+    font-family: arial;
+}
+.nav2{
+    display: flex;
+    margin-left: 280px;
+}
+.card{
+    padding: 20px;
+    filter: brightness(75%);
+}
+.card img{
+    display: block;
+}
+.card h2{
+    color: #fff;
+    text-shadow: 1px 1px 2px black;
+    font-size: 25px;
+    position: absolute;
+    bottom: 0px;
+    left: 115px;
+    top: 115px;
+}
+.linha {
+    color: #dd571c;
+    font-family: tw cen MT;
+    font-size: 22px;
+}
+.footer {
+    background-color: #ddead1;
+    margin: 0;
+}
+.contaner h2 {
+    color: #949494;
+    font-size: 16px;
+    font-family: arial;
+}
+.contato .inst{
+    margin: 10px 0px 10px;
+}
+.contaner p{
+    font-size: 14px;
+    color: #999da0;
+}
+.contaner{
+    padding: 5px;
+}
+.contato{
+    text-align: center;
+}
+.inst p a{
+    color: #999da0;
+}
+.inst {
+    text-align: center;
+    margin: 0px;
+}
+li span{
+    color: #dd571c;
+    font-family: tw cen MT;
+    font-size: 22px;
+}
